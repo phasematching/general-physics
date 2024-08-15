@@ -1,6 +1,6 @@
 # Textbook for General Physics
 
-You can preview the [book](https://veillette.github.io/physics-book/) and access
+You can preview the [book](https://phasematching.github.io/general-physics/) and access
 the [Table of Contents](./SUMMARY.md)
 
 # About
